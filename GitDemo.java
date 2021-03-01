@@ -30,7 +30,7 @@ public class GitDemo {
             newNumber = newNumber * i;
         }
         
-        reverseNum = new Number; 
+        reverseNum = newNumber; 
         return newNumber;
     }
     
